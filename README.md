@@ -29,7 +29,7 @@ And this is how they appear after pressing AltGr+Shift (in red the newly added c
 
 Just click on the `setup.exe` file or on the correct `.msi` file for your architecture. After that, you can go into your Windows settings and select the new layout from the list.
 
-Alternatively, you can build the executable yourself by downloading the MSKLC tool and importing the `.klc` source file by going to `File -> Load Source File` and then on `Project -> Build DLL and Setup Package`.
+Alternatively, you can build the executable yourself by downloading the MSKLC tool and importing the `ProgrIta.klc` source file by going to `File -> Load Source File` and then on `Project -> Build DLL and Setup Package`.
 
 ## Motivation
 
